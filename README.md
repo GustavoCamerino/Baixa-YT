@@ -25,4 +25,4 @@ Perfeito para quem quer salvar conteúdos rapidamente, seja vídeo ou apenas áu
 
 Instale as dependências com:
 ```bash
-pip install -r requirements.txt
+pip install yt_dlp
